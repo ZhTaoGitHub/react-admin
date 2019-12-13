@@ -1,0 +1,44 @@
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 16px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+
+.logo {
+  height: 56px;
+  margin: 0px 24px;
+  vertical-align: top;
+}
+
+.title {
+  color: #000;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.ant-menu-inline{
+  border-right-width: 0;
+}
+
+.content_body{
+  margin: 16px;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.ant-page-header-ghost{
+  padding: 8px;
+  background-color: #fff0;
+}
+
+.main_body{
+  transition: all 0.2s;
+}
